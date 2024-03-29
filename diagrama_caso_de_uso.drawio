@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T21:17:15.835Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.1" etag="4tAqtzu54hNpjsIa1eWz" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T21:35:31.809Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="5DEs1wjhUKJtGCfIboJe" version="24.2.1" type="github">
   <diagram name="Página-1" id="700KF4gIXVRDVvoJC0Ql">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gO2aOYxfTg0mxxoaulmp-1" value="Gestor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gO2aOYxfTg0mxxoaulmp-5" value="Candidato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gO2aOYxfTg0mxxoaulmp-6" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gO2aOYxfTg0mxxoaulmp-11" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="690" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="gO2aOYxfTg0mxxoaulmp-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="80" width="335" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gO2aOYxfTg0mxxoaulmp-15" value="VcRS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
