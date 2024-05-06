@@ -1,6 +1,6 @@
 # Facul
 
-## Deixando registrado materiais do tempo da Faculdade.
+## Deixando registrado as matérias do tempo da Faculdade.
 
 ### Disciplinas[^1] cursadas ✅ em andamento 🟩 futuras 🟥
 
